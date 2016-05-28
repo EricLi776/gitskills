@@ -3,3 +3,5 @@
 Creating  a new branch is quick.
 
 test merge.
+
+feature1.
