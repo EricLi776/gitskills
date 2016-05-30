@@ -1,5 +1,8 @@
-# gitskills
+# git skills 
+test merge.
 
-Creating  a new branch is quick
+feature1.
 
-dev version
+Creating a new branch is quick AND simple. 
+
+dev&feature1 merge version.
